@@ -27,7 +27,7 @@ A software developer, tech enthusiast, and a lifelong learner.
 
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FurBlood344324&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FurBlood344324&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FurBlood344324&langs_count=10&hide=html&theme=radical)
 
 ---
 
