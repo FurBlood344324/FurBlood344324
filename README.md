@@ -1,14 +1,14 @@
-# Hello! 👋 I am [Furkan Çevik]  
+# Hello! 👋 I am Furkan Çevik  
 
-[A software developer, tech enthusiast, and a lifelong learner.]  
+A software developer, tech enthusiast, and a lifelong learner.
 
 ---
 
 ## 🚀 About Me  
-- 🔭 Current Projects: **[UrlShortener-Api]**  
-- 🌱 Currently Learning: **[Data Structures, Algorithms, Artificial Intelligence]**  
-- 💬 Ask me about: **[Java and Python]**  
-- 📧 How to reach me: **[furkancevik181@gmail.com]**    
+- 🔭 Current Projects: **GitGud, UrlShortener-Api**  
+- 🌱 Currently Learning: **Data Structures, Algorithms, Artificial Intelligence**  
+- 💬 Ask me about: **Java, Python, JavaScript**  
+- 📧 How to reach me: **furkancevik181@gmail.com**    
 
 ---
 
@@ -16,7 +16,8 @@
 **Programming Languages:**  
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ---
 
