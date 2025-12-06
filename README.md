@@ -26,9 +26,6 @@ A software developer, tech enthusiast, and a lifelong learner.
 ---
 
 ## 📊 GitHub Stats  
-[![GitHub Stats](https://github-readme-stats-omega-pearl-65.vercel.app/api/?username=FurBlood344324&theme=tokyonight&show_icons=true)](https://github.com/FurBlood344324/github-readme-stats) 
-[![Top Langs](https://github-readme-stats-omega-pearl-65.vercel.app/api/top-langs/?username=FurBlood344324&theme=tokyonight&langs_count=6)](https://github.com/FurBlood344324/github-readme-stats)
-
 <div align="center">
   <img src="https://github-readme-stats-omega-pearl-65.vercel.app/api/?username=FurBlood344324&theme=tokyonight&show_icons=true" alt="Stats" width="500" />
   
